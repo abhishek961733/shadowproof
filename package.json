@@ -1,0 +1,26 @@
+{
+  "name": "shadowproof",
+  "version": "1.0.0",
+  "description": "\\# ShadowProof",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek961733/shadowproof.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abhishek961733/shadowproof/issues"
+  },
+  "homepage": "https://github.com/abhishek961733/shadowproof#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.1.0",
+    "ethers": "^6.16.0",
+    "hardhat": "^2.26.2"
+  }
+}
